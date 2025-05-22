@@ -10,7 +10,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 int main() {
 char ch1, ch2, ch3;
@@ -19,7 +19,7 @@ scanf(" %c %c %c", &ch1, &ch2, &ch3);
 printf("Characters in reverse order: %c %c %c\n", ch3, ch2, ch1);
 return 0;
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/ed86c599-93a1-4e10-9656-3bb067f1d58c)
@@ -56,7 +56,7 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
-
+```
 #include <stdio.h>
 int main() {
 int A;
@@ -69,7 +69,7 @@ printf("The number is not positive.\n");
 }
 return 0;
 }
-
+```
 # OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/661c2a5d-7dd7-4263-b8c9-2685fb380d2b)
@@ -104,7 +104,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 int main() {
 int num1, den1, num2, den2;
@@ -119,7 +119,7 @@ minFrac = (frac1 < frac2) ? frac1 : frac2;
 printf("The minimum fraction value is: %.6f\n", minFrac);
 return 0;
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/8f47ad8e-387f-4216-b61e-4af587e44a57)
@@ -151,7 +151,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 int main() {
 int value;
@@ -164,7 +164,7 @@ printf("The input value is not equal to 1.\n");
 }
 return 0;
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/f45d6add-00f5-4275-9736-0f290c072cb5)
@@ -201,7 +201,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
-
+```
 #include <stdio.h>
 int main() {
 int m1, m2, m3;
@@ -227,7 +227,7 @@ printf("Division = Fail\n");
 }
 return 0;
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/e177e3fd-c10c-43d1-916f-2f5aa7371cba)
