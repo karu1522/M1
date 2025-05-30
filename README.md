@@ -22,7 +22,8 @@ return 0;
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ed86c599-93a1-4e10-9656-3bb067f1d58c)
+
+![image](https://github.com/user-attachments/assets/6e813fb9-b0a5-4f48-829f-74ed120c74a3)
 
 
 
